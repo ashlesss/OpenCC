@@ -17,7 +17,7 @@
   "binary": {
     "module_name": "opencc",
     "module_path": "./build/Release/",
-    "host": "https://github.com/BYVoid/OpenCC/releases/download/",
+    "host": "https://github.com/ashlesss/OpenCC/releases/download/",
     "remote_path": "{version}"
   },
   "repository": {
